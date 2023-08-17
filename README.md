@@ -11,7 +11,8 @@
    - Bleach
    - Naruto
      
-! [The main protagonist In bleach] (![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/d3c36520-a3bb-4a70-9d91-df8d460fd42e)
+! [alt text] (![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/73b4c4ae-56fc-4b05-91b7-f4ab4ab58b6b)
+
 
 <!---
 Jrceo628/Jrceo628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
