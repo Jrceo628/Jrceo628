@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
   
 **My favorite Food is French Fries**
+**You might have my number but that doesn't mean I'll pick up** 
+**Willy Wonka is the Greatest Fictional Character of All Time**
+**Not Runner Up, Just Up**
   ## My Top 3 Anime
 
    - DBZ
