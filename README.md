@@ -11,7 +11,7 @@
    - Bleach
    - Naruto
      
-! [alt text] (![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/73b4c4ae-56fc-4b05-91b7-f4ab4ab58b6b)
+(![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/73b4c4ae-56fc-4b05-91b7-f4ab4ab58b6b)
 
 
 <!---
