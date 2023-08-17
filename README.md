@@ -11,8 +11,9 @@
    - Bleach
    - Naruto
      
-(![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/73b4c4ae-56fc-4b05-91b7-f4ab4ab58b6b)
+![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/73b4c4ae-56fc-4b05-91b7-f4ab4ab58b6b)
 
+(My Favorite Youtube Channel at the moment) (https://www.youtube.com/@TheStradman) 
 
 <!---
 Jrceo628/Jrceo628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
