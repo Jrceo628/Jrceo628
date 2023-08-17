@@ -10,7 +10,8 @@
    - DBZ
    - Bleach
    - Naruto
-! [The main protagonist In bleach] (![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/694c5954-4387-4811-8ca6-5324262bde96)
+     
+! [The main protagonist In bleach] (![image](https://github.com/Jrceo628/Jrceo628/assets/129248390/694c5954-4387-4811-8ca6-5324262bde96/200/200)
 
 <!---
 Jrceo628/Jrceo628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
