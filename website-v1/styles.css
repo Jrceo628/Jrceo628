@@ -16,9 +16,22 @@ h1 {
 .summary-container {
     display: grid;
     /* grid-template-columns:repeat(3,1fr) */
-    grid-template-columns:1fr 1fr 1fr 
+    grid-template-columns:1fr 1fr 1fr;
+    grid-column-gap: 30px
     
 }
+
+.fun-facts {
+display: grid;
+grid-template-columns: 1fr 1fr;
+
+
+}
+
+/* .good-times{
+    display: grid;
+    justify-content: right;
+} */
 
 .NC-blue{
     color: cornflowerblue;  
